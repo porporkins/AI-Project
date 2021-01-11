@@ -1,2 +1,2 @@
 # AI-Project
-Project subissions for Red Dragon AI courses
+Project submissions for Red Dragon AI courses
