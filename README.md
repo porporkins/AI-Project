@@ -1,2 +1,2 @@
 # AI-Project
-Mini Project for RNN
+Project subissions for Red Dragon AI courses
